@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9027b8f9.css",
+    "main.js": "/static/js/main.9b0fa93f.js",
+    "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
+    "static/media/Greg_JT_01-1-1.jpg": "/static/media/Greg_JT_01-1-1.489b8bac87f50ab5719a.jpg",
+    "static/media/Greg_JT_01-2.jpg": "/static/media/Greg_JT_01-2.d02e594574634543c399.jpg",
+    "index.html": "/index.html",
+    "main.9027b8f9.css.map": "/static/css/main.9027b8f9.css.map",
+    "main.9b0fa93f.js.map": "/static/js/main.9b0fa93f.js.map",
+    "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9027b8f9.css",
+    "static/js/main.9b0fa93f.js"
+  ]
+}
