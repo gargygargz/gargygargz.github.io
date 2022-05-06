@@ -99,7 +99,7 @@ export const Navigation = (props) => {
 							<a
 								target='_blank'
 								rel='noopener noreferrer'
-								href='https://drive.google.com/file/d/1IgK_YMkYynkuXky6zEzNcZvkEsMz7UIe/view?usp=sharing'
+								href='https://drive.google.com/file/d/10DPkOrvRCK8sJk-cxF-IYRfTL5bAXw8F/view?usp=sharing'
 								className='page-scroll'>
 								Resume
 							</a>
